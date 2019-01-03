@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/SimplePlayer.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/interfaces/Player.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/interfaces/GameEngine.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/client/SimpleTestClient.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/GameEngineImpl.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/interfaces/DicePair.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/interfaces/GameEngineCallback.java</file>
+            <file>file:/D:/Documents/work/software%20eng/codes/soft%20eng/assignment%20dice%20game/assignment%20dice%20game%202/src/model/GameEngineCallbackImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
